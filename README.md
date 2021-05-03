@@ -1,3 +1,4 @@
+Firestarter2501's Blog(以下テーマ付属のreadme)
 Galada - Easy & Simple Theme for Personal Blog
 ======
 Galada is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog.
